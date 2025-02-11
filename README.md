@@ -55,7 +55,6 @@ For potential clients and collaborators:
 ## Contact Information
 
 For business inquiries:
-- Email: [Your Professional Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: parinya24dev@gmail.com
 
 *Note: This repository contains confidential client work. All code and documentation are protected under relevant NDAs and agreements.*
